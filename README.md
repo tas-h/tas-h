@@ -32,7 +32,6 @@
 
 
 
-
 [facebook]: https://www.facebook.com/tas.henczes.7/
 [instagram]: https://www.instagram.com/henczes.tas/
 [linkedin]: https://www.linkedin.com/in/tas-henczes-47748b219/
