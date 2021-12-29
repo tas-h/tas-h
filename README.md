@@ -12,7 +12,7 @@
  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=tas-h&show_icons=true&theme=radical&count_private=true" /> 
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="45%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas-h&layout=compact&langs_count=10"/>
+  <img align="right" width="45%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas-h&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages%20in%20Public%20Repos"/>
 </a>
 <br /><br /><br /><br /><br /><br /><br />
 
